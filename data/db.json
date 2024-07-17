@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "31",
+      "title": "First",
+      "datetime": "July 17,2024 12:59:12 PM",
+      "body": "This is my first post that is note in this website"
+    },
+    {
+      "id": "311",
+      "title": "The birth of the king",
+      "datetime": "July 17, 2024 12:54:16 PM",
+      "body": "Happy boy"
+    },
+    {
+      "id": "3111",
+      "title": "Second post",
+      "datetime": "July 17,2024 1:00:52 PM",
+      "body": "This is my second post"
+    }
+  ]
+}
